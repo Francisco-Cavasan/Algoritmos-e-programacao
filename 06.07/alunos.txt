@@ -1,0 +1,10 @@
+Joao|1.77|19
+Carlos|1.70|21
+Fabio|1.82|27
+Luisa|1.63|17
+Cleiton|1.69|19
+Laura|1.58|20
+Jubileu|1.71|22
+Maria|1.60|25
+Pedro|1.68|23
+Gabriel|1.73|19
